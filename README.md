@@ -23,7 +23,7 @@ And then you have two options to run this application:
 If you press the **I want to query the PDG Database** button, 
 the AI will write a SQL query to the PDG database and answer your question. 
 
-If you press the **I am interested in Zhijie's publications**, 
+If you press the **I am interested in Zhijie's publications** button, 
 the AI will find the answer in the PDF files.
 
 ## TODO
