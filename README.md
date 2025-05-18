@@ -9,8 +9,25 @@ The text is extracted by the **PyPDF2**.
 
 Here, the **Gemini** model from google has been used, but it can be switched to other model easily. 
 
+## Usage
+This app is developed by **streamlit**.
+In terminal, run
+```
+streamlit run main.py
+```
+Your quesion (prompt) can be input by the text input widget. 
+And then you have two options to run this application: 
+* I want to query the PDG Database
+* I am interested in Zhijie's publications
+
+If you press the **I want to query the PDG Database** button, 
+the AI will write a SQL query to the PDG database and answer your question. 
+
+If you press the **I am interested in Zhijie's publications**, 
+the AI will find the answer in the PDF files.
+
 ## TODO
-Actually, the performance of this app is not good. For example, if you write a prompt:
+Actually, the performance of this App is not good. For example, if you write a prompt:
 ```
 Find the value of Higgs mass in this database.
 ```
