@@ -1,4 +1,4 @@
-# Zhijie-AI-Project
+# AI-Project-SQL-PDF
 
 ## Introduction
 By this App, you can query the Particle Data Group (PDG) database or ask questions for Zhijie's publications. 
